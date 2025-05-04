@@ -14,7 +14,7 @@ This repository highlights my key data analysis projects, showcasing skills in d
 
 
 
-# 1.Data Visualization (Power BI and Tableau project)
+# 1.Data Visualization (Power BI and Tableau)
 https://github.com/kimianik1996/Visualization.git
 
 # 2.Model Building and Data Analysis Project (EDA , Models, and Report) 
