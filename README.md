@@ -19,3 +19,16 @@ https://github.com/kimianik1996/Visualization.git
 
 # 2.Model Building and Data Analysis Project (EDA , Models, and Report) 
 https://github.com/kimianik1996/Spotify-Song-Popularity-Prediction.git
+
+# 3.Grow Better is my Real world project about Metro Vancouver businesses as a BI tool (Full stack Web Application) 
+https://github.com/kimianik1996/full-stack-project.git
+
+# 4.Sentiment Analysis (NLP and Web scraping) 
+https://github.com/kimianik1996/sentiment-analysis-.git
+
+# 5.Stock Price prediction (High level Data analysis group Project) 
+https://github.com/kimianik1996/stock-price-prediction.git
+
+
+
+
