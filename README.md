@@ -11,6 +11,11 @@ This repository highlights my key data analysis projects, showcasing skills in d
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-6A1B9A?style=for-the-badge)
 ![Modeling](https://img.shields.io/badge/Machine%20Learning%20Models-0D47A1?style=for-the-badge)
 ![Full Stack Dev](https://img.shields.io/badge/Full%20Stack-4CAF50?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge)
+![Database Design](https://img.shields.io/badge/Database%20Design-4A90E2?style=for-the-badge)
+![Star Schema](https://img.shields.io/badge/Star%20Schema-6A1B9A?style=for-the-badge)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
