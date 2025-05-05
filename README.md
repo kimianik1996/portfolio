@@ -29,6 +29,9 @@ https://github.com/kimianik1996/sentiment-analysis-.git
 # 5.Stock Price prediction (High level Data analysis group Project) 
 https://github.com/kimianik1996/stock-price-prediction.git
 
+# 6.Database Development (Queries, Schema, and NoSQL Database)
+https://github.com/kimianik1996/Database-Development.git
+
 
 
 
